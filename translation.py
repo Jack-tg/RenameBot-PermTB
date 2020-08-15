@@ -24,4 +24,4 @@ class Translation(object):
     
 1. Send me any Telegram File.
 2. Reply to that message with /rename NEWNAME.EXTENSION
-3.IT WILL CONVERT FILE TO VIDEO"""
+3.IT WILL ALSO CONVERT FILE TO VIDEO"""
