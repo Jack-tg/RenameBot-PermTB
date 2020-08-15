@@ -23,5 +23,5 @@ class Translation(object):
     HELP_USER = """It's not that complicated😅
     
 1. Send me any Telegram File.
-2. Reply to that message with /rename NEWNAME.EXTENSION"""
-
+2. Reply to that message with /rename NEWNAME.EXTENSION
+3.IT WILL CONVERT FILE TO VIDEO
